@@ -1,4 +1,4 @@
 # gitskills
 第二个测试
-add a master;
-
+swich to dev branck and add an example;
+ 
